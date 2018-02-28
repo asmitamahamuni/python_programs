@@ -1,3 +1,5 @@
+# Merge given two lists into one sorted list
+
 # Solution : 1
 
 a = [3, 4, 6, 10, 11, 18]
