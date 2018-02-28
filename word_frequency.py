@@ -1,3 +1,6 @@
+# Get word frequency from the given string
+
+
 ss = """I figured it out
 I figured it out from black and white
 Seconds and hours
