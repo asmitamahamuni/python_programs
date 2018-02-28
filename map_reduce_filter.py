@@ -1,3 +1,5 @@
+# Write program for usage of Map, reduce and filter
+
 from functools import reduce
 
 l = [x for x in range(10) if x % 2 == 0]
