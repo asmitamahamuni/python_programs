@@ -1,3 +1,6 @@
+#Initializing dictionary with list
+
+
 cities = {'San Francisco': 'US', 'London':'UK',
         'Manchester':'UK', 'Paris':'France',
         'Los Angeles':'US', 'Seoul':'Korea'}
