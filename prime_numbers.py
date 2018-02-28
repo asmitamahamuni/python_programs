@@ -1,3 +1,5 @@
+#Write a program to find prime numbers from 1 to 100.
+
 def isPrime(n):
    if n == 1:
       return False
