@@ -1,3 +1,5 @@
+# Find list of anagrams from a list of words
+
 anagram = []
 words = ['fired', 'alert', 'remain', 'alter', 'allergy', 'gallery',
          'abets', 'baste', 'fried', 'beast', 'beats']
