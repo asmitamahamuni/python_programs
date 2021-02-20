@@ -1,7 +1,5 @@
 def isAnagram(w1, w2):
-  if sorted(w1) != sorted(w2):
-    return False
-  return True
+  return sorted(w1) == sorted(w2)
 
 words = [("evil","vile"), ("pat","tap"),("mile","nile")]
 for w in words:
