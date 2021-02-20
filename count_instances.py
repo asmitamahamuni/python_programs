@@ -6,11 +6,10 @@ class A:
    def __init__(self, name):
      self.name = name
      A.total += 1
-
+   
+   @staticmethod
    def status():
       print("Total number of instance of A : ", A.total)
-   status = staticmethod(status)
-
 
 a1 = A("A1")
 a2 = A("A2")
